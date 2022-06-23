@@ -1,0 +1,23 @@
+<item>
+	<field name="show_id">80158546</field>
+	<field name="title">Prince</field>
+	<field name="director">Lekh Tandon</field>
+	<field name="cast">Shammi Kapoor, Vyjayantimala, Rajendra Nath, Ajit, Helen, Leela Chitnis, Parveen Choudhary, Sudhir, Sunder, Rashid Khan</field>
+	<field name="country">India</field>
+	<field name="date_added">June 1, 2017</field>
+	<field name="rating">TV-14</field>
+	<field name="duration">152 min</field>
+	<field name="listed_in">Dramas, International Movies, Romantic Movies</field>
+	<field name="description">To better himself, a spoiled prince temporarily assumes a commoner’s identity. But he soon learns his palace has been gifted to his father’s new wife.</field>
+</item><item>
+	<field name="show_id">1067876</field>
+	<field name="title">True Grit</field>
+	<field name="director">Henry Hathaway</field>
+	<field name="cast">John Wayne, Glen Campbell, Kim Darby, Jeremy Slate, Robert Duvall, Dennis Hopper, Alfred Ryder, Strother Martin, Jeff Corey</field>
+	<field name="country">United States</field>
+	<field name="date_added">January 1, 2020</field>
+	<field name="rating">G</field>
+	<field name="duration">128 min</field>
+	<field name="listed_in">Classic Movies, Dramas</field>
+	<field name="description">Teenage tomboy Mattie Ross enlists the help of crusty lawman Rooster Cogburn to track down the hired hand who murdered her father.</field>
+</item>

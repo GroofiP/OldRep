@@ -1,0 +1,134 @@
+[
+{
+ "model": "mainapp.product_category",
+ "pk": 1,
+ "fields": {
+  "name": "Бронза",
+  "description": "Коробочки с маловероятным выигрышем"
+ }
+},
+{
+ "model": "mainapp.product_category",
+ "pk": 2,
+ "fields": {
+  "name": "Серебро",
+  "description": "Шанс выиграть меньше среднего"
+ }
+},
+{
+ "model": "mainapp.product_category",
+ "pk": 3,
+ "fields": {
+  "name": "Золото",
+  "description": "Шанс выиграть выше среднего"
+ }
+},
+{
+ "model": "mainapp.product",
+ "pk": 1,
+ "fields": {
+  "category": 1,
+  "name": "Бронзовый бокс",
+  "image": "products_images/bronze_Nkd2kwh.png",
+  "description": "Коробочки с маловероятным выигрышем",
+  "price": "100.00",
+  "is_active": true
+ }
+},
+{
+ "model": "mainapp.product",
+ "pk": 2,
+ "fields": {
+  "category": 1,
+  "name": "3 бронзовых бокса",
+  "image": "products_images/bronze_d7ZqM2G.png",
+  "description": "Коробочки с маловероятным выигрышем",
+  "price": "250.00",
+  "is_active": true
+ }
+},
+{
+ "model": "mainapp.product",
+ "pk": 3,
+ "fields": {
+  "category": 1,
+  "name": "5 бронзовых боксов",
+  "image": "products_images/bronze_ISxGuEn.png",
+  "description": "Коробочки с маловероятным выигрышем",
+  "price": "400.00",
+  "is_active": true
+ }
+},
+{
+ "model": "mainapp.product",
+ "pk": 4,
+ "fields": {
+  "category": 2,
+  "name": "Серебряный бокс",
+  "image": "products_images/silver.png",
+  "description": "Шанс выиграть меньше среднего",
+  "price": "300.00",
+  "is_active": true
+ }
+},
+{
+ "model": "mainapp.product",
+ "pk": 5,
+ "fields": {
+  "category": 2,
+  "name": "3 серебряных бокса",
+  "image": "products_images/silver_nqsd74W.png",
+  "description": "Шанс выиграть меньше среднего",
+  "price": "700.00",
+  "is_active": true
+ }
+},
+{
+ "model": "mainapp.product",
+ "pk": 6,
+ "fields": {
+  "category": 2,
+  "name": "5 серебряных боксов",
+  "image": "products_images/silver_Q8MhsUY.png",
+  "description": "Шанс выиграть меньше среднего",
+  "price": "1200.00",
+  "is_active": true
+ }
+},
+{
+ "model": "mainapp.product",
+ "pk": 7,
+ "fields": {
+  "category": 3,
+  "name": "Золотой бокс",
+  "image": "products_images/gold.png",
+  "description": "Шанс выиграть выше среднего",
+  "price": "500.00",
+  "is_active": true
+ }
+},
+{
+ "model": "mainapp.product",
+ "pk": 8,
+ "fields": {
+  "category": 3,
+  "name": "3 золотых бокса",
+  "image": "products_images/gold_7SHRYgI.png",
+  "description": "Шанс выиграть выше среднего",
+  "price": "1200.00",
+  "is_active": true
+ }
+},
+{
+ "model": "mainapp.product",
+ "pk": 9,
+ "fields": {
+  "category": 3,
+  "name": "5 золотых боксов",
+  "image": "products_images/gold_2hWVyX5.png",
+  "description": "Шанс выиграть выше среднего",
+  "price": "2000.00",
+  "is_active": true
+ }
+}
+]

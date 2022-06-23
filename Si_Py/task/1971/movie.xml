@@ -1,0 +1,34 @@
+<item>
+	<field name="show_id">80158481</field>
+	<field name="title">Lal Patthar</field>
+	<field name="director">Sushil Majumdar</field>
+	<field name="cast">Raaj Kumar, Hema Malini, Rakhee Gulzar, Vinod Mehra, Asit Kumar Sen, Paintal, Dulari, Chandramohan, Sujata Bakshi, Meena T.</field>
+	<field name="country">India</field>
+	<field name="date_added">July 1, 2017</field>
+	<field name="rating">TV-PG</field>
+	<field name="duration">153 min</field>
+	<field name="listed_in">Classic Movies, Dramas, International Movies</field>
+	<field name="description">A vain, self-righteous nobleman falls in love with a village girl and tries to transform her into his version of the ideal woman.</field>
+</item><item>
+	<field name="show_id">60020949</field>
+	<field name="title">Willy Wonka & the Chocolate Factory</field>
+	<field name="director">Mel Stuart</field>
+	<field name="cast">Gene Wilder, Jack Albertson, Peter Ostrum, Roy Kinnear, Julie Dawn Cole, Leonard Stone, Denise Nickerson, Dodo Denney, Paris Themmen, Ursula Reit</field>
+	<field name="country">United States, East Germany, West Germany</field>
+	<field name="date_added">January 1, 2020</field>
+	<field name="rating">G</field>
+	<field name="duration">100 min</field>
+	<field name="listed_in">Children & Family Movies, Classic Movies, Comedies</field>
+	<field name="description">Zany Willy Wonka causes a stir when he announces that golden tickets hidden inside his candy bars will admit holders into his secret confectionary.</field>
+</item><item>
+	<field name="show_id">80158482</field>
+	<field name="title">Elaan</field>
+	<field name="director">K. Ramanlal</field>
+	<field name="cast">Vinod Mehra, Rekha, Vinod Khanna, Helen, Madan Puri, Brahm Bhardwaj</field>
+	<field name="country">India</field>
+	<field name="date_added">April 1, 2017</field>
+	<field name="rating">TV-PG</field>
+	<field name="duration">143 min</field>
+	<field name="listed_in">Action & Adventure, Cult Movies, International Movies</field>
+	<field name="description">Journalist Naresh is hired to probe illegal activities on an island. When he's captured, a fellow prisoner gives him a ring with magic powers.</field>
+</item>

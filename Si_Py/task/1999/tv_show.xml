@@ -1,0 +1,45 @@
+<item>
+	<field name="show_id">80128338</field>
+	<field name="title">Chewin' the Fat</field>
+	<field name="director">nan</field>
+	<field name="cast">Ford Kiernan, Greg Hemphill, Karen Dunbar, Mark Cox, Paul Riley</field>
+	<field name="country">United Kingdom</field>
+	<field name="date_added">October 1, 2016</field>
+	<field name="rating">TV-14</field>
+	<field name="duration">1 Season</field>
+	<field name="listed_in">British TV Shows, TV Comedies</field>
+	<field name="description">Petty criminals, dodgy decorators, full-bore Glaswegians and oddball documentary presenters converge in this sketch show that parodies Scottish life.</field>
+</item><item>
+	<field name="show_id">80173925</field>
+	<field name="title">Mystery Science Theater 3000</field>
+	<field name="director">nan</field>
+	<field name="cast">Joel Hodgson, Michael J. Nelson, Kevin Murphy, Trace Beaulieu, Jim Mallon, Frank Conniff, Mary Jo Pehl, Bill Corbett, Patrick Brantseg, J. Elvis Weinstein</field>
+	<field name="country">United States</field>
+	<field name="date_added">March 15, 2018</field>
+	<field name="rating">TV-14</field>
+	<field name="duration">1 Season</field>
+	<field name="listed_in">TV Comedies, TV Sci-Fi & Fantasy</field>
+	<field name="description">Hosts Joel and Mike and their robot companions offer hilarious running commentary on B movies they're forced to watch in these classic MST3K episodes.</field>
+</item><item>
+	<field name="show_id">70213081</field>
+	<field name="title">Power Rangers Lost Galaxy</field>
+	<field name="director">nan</field>
+	<field name="cast">Archie Kao, Reggie Rolle, Danny Slavin, Valerie Vernon, Cerina Vincent, Russell Lawrence, Amy Miller, Melody Perkins, Kazuki Maehara, Eri Tanaka, Terence J. Rotolo, Hiroshi Tsuchida, Tom Whyte, Bob Papenbrook, Mari Maruta</field>
+	<field name="country">United States, France, Japan</field>
+	<field name="date_added">January 1, 2016</field>
+	<field name="rating">TV-Y7-FV</field>
+	<field name="duration">1 Season</field>
+	<field name="listed_in">Kids' TV</field>
+	<field name="description">Five teenagers, transformed by the mystical powers of the Quasar Sabers into the Galaxy Power Rangers, battle the evil Scorpius and Captain Mutiny.</field>
+</item><item>
+	<field name="show_id">70158330</field>
+	<field name="title">Star Trek: Deep Space Nine</field>
+	<field name="director">nan</field>
+	<field name="cast">Avery Brooks, Nana Visitor, Rene Auberjonois, Cirroc Lofton, Alexander Siddig, Colm Meaney, Armin Shimerman, Terry Farrell, Michael Dorn</field>
+	<field name="country">United States</field>
+	<field name="date_added"> January 1, 2017</field>
+	<field name="rating">TV-PG</field>
+	<field name="duration">7 Seasons</field>
+	<field name="listed_in">TV Action & Adventure, TV Sci-Fi & Fantasy</field>
+	<field name="description">In this "Star Trek" spin-off, Commander Sisko leads the multi-species crew of Deep Space Nine, a Federation space station with a complex mission.</field>
+</item>

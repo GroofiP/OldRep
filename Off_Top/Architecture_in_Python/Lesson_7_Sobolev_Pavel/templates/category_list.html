@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block body %}
+{% include "includes/inc_menu_learn.html" %}
+
+<h1>Список категорий</h1>
+<ul>
+
+    {% for item in objects_list %}
+    <li>
+        {{item.name}} <br><span>Количество курсов: {{item.course_count()}}</span>
+            <br><a href="/courses-list/?id={{item.id}}">Показать курсы</a>
+    </li>
+    {% endfor %}
+</ul>
+
+<div>
+    <ul>
+        <li><a href="/courses-list/">Список курсов</a></li>
+        <li><a href="/create-course/">Создать курс</a></li>
+    </ul>
+</div>
+{% endblock %}

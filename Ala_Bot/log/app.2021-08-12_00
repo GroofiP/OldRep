@@ -1,0 +1,20 @@
+help_command
+{'type': 'private', 'first_name': 'Groof', 'username': 'grooofidze', 'id': 606913115}
+help_command
+{'first_name': 'Groof', 'id': 606913115, 'type': 'private', 'username': 'grooofidze'}
+{'new_chat_photo': [], 'supergroup_chat_created': False, 'date': 1628638871, 'photo': [], 'chat': {'first_name': 'Groof', 'id': 606913115, 'type': 'private', 'username': 'grooofidze'}, 'entities': [{'type': 'bot_command', 'offset': 0, 'length': 5}], 'channel_chat_created': False, 'text': '/help', 'delete_chat_photo': False, 'caption_entities': [], 'message_id': 437, 'group_chat_created': False, 'new_chat_members': [], 'from': {'id': 606913115, 'is_bot': False, 'username': 'grooofidze', 'first_name': 'Groof', 'language_code': 'ru'}}
+help_command
+{'username': 'grooofidze', 'first_name': 'Groof', 'type': 'private', 'id': 606913115}
+/help
+help_command
+{'username': 'grooofidze', 'first_name': 'Groof', 'type': 'private', 'id': 606913115}
+/help
+help_command
+{'type': 'private', 'username': 'grooofidze', 'first_name': 'Groof', 'id': 606913115}
+/help
+start
+{'type': 'private', 'username': 'grooofidze', 'first_name': 'Groof', 'id': 606913115}
+/start
+help_command
+{'type': 'private', 'username': 'grooofidze', 'first_name': 'Groof', 'id': 606913115}
+/help

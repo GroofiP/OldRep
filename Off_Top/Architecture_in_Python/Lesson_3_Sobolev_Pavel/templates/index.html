@@ -1,0 +1,29 @@
+﻿{% extends "base.html" %}
+{% block body %}
+<h1>Это страница показывает дату</h1>
+<p>Время всегда старается быть точным.</p>
+<h1>Сегодня: {{data_time}}</h1>
+<h1>По местному времени: {{time}}</h1>
+<form action="" method="post">
+    <fieldset>
+        <p><label for="location" class="title">Время в разных городах:</label>
+            <select name="location" id="location">
+                <option value="ms">Москва</option>
+                <option value="ka">Калининград</option>
+                <option value="sa">Самара</option>
+                <option value="ek">Екатеринбург</option>
+                <option value="om">Омск</option>
+                <option value="kr">Красноярск</option>
+                <option value="ir">Иркутск</option>
+                <option value="ja">Якутск</option>
+                <option value="vl">Владивосток</option>
+                <option value="ma">Магадан</option>
+                <option value="km">Камчатка</option>
+            </select></p>
+        <hr>
+        <h1>{{city}}</h1>
+        <h1>{{time_city}}</h1>
+    </fieldset>
+    <div class="submit"><input type="submit" value="Посмотреть"/></div>
+</form>
+{% endblock %}

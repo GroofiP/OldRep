@@ -1,0 +1,19 @@
+{% extends "mainapp/base.html" %}
+{% load static%}
+{% block content %}
+    <div class="contacts_head">
+        <h1 class="contacts_head_h1">Контакты</h1>
+        <ul class=" contacts_head_ul">
+            {% for location in locations %}
+            <li class="card card_1"><p class="card_p">
+                Город: {{location.city}}
+                <br>Менеджер : {{location.manager|title}}
+                <br>E-Mail: {{ location.email }}
+                <br>Техническая поддержка : {{location.support}}
+                <br>E-Mail: {{location.email_support}}
+                <br>Телефон для связи: {{location.phone}}
+            </p></li>
+            {% endfor %}
+        </ul>
+    </div>
+{% endblock %}

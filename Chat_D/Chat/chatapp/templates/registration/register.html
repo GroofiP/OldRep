@@ -1,0 +1,23 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Чат</title>
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+</head>
+<body>
+<div class="wrapper">
+    <h1>Форма для регистрации</h1>
+    <form class="form-horizontal" action="{% url 'register' %}" method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+        {{ register_form.as_p }}
+        <br>
+        <input class="form-control" type="submit" value="Зарегистрироваться">
+    </form>
+    <div class="link_auth">
+        <a href="{% url 'login' %}">Ввести логин</a>
+    </div>
+</div>
+</body>
+</html>

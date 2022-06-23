@@ -1,0 +1,30 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Чат</title>
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+</head>
+<body>
+<div class="wrapper">
+    <div class="top">
+        <div class="top_chat">
+            {% for item in object_list %}
+                <p>Сообщение от <span>{{ item.name }}</span>: {{ item.text|linebreaksbr }}</p>
+            {% endfor %}
+        </div>
+        <div>
+            <a href="{% url 'logout' %}">Выйти из аккаунта</a>
+        </div>
+    </div>
+    <div class="new_category_form">
+        <form class="form-horizontal" method="post" enctype="multipart/form-data">
+            {% csrf_token %}
+            {{ form.as_p }}
+            <input class="form-control" type="submit" value="Отправить">
+        </form>
+    </div>
+</div>
+</body>
+</html>

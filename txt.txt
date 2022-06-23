@@ -1,0 +1,4 @@
+truncatewords
+база в гит игноре
+secret_key
+обновить статьи

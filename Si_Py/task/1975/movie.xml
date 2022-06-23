@@ -1,0 +1,56 @@
+<item>
+	<field name="show_id">81168347</field>
+	<field name="title">Hotel Pacific</field>
+	<field name="director">Janusz Majewski</field>
+	<field name="cast">Marek Kondrat, Roman Wilhelmi, Roman Skamene, Čestmír Řanda, Michał Pawlicki, Martin Hron, Stanisława Celińska, Joanna Kasperska, Jaroslava Schallerová</field>
+	<field name="country">Poland,</field>
+	<field name="date_added">October 1, 2019</field>
+	<field name="rating">TV-MA</field>
+	<field name="duration">96 min</field>
+	<field name="listed_in">Classic Movies, Dramas, International Movies</field>
+	<field name="description">A motivated teen strives to rise from dishwasher to waiter at a luxury hotel only to tread in the abusive tide of its workplace hierarchy.</field>
+</item><item>
+	<field name="show_id">80999107</field>
+	<field name="title">The Flying Guillotine</field>
+	<field name="director">Meng Hua Ho</field>
+	<field name="cast">Kuan Tai Chen, Feng Ku, Hung Wei, Wu Chi Liu, Yang Chiang</field>
+	<field name="country">Hong Kong</field>
+	<field name="date_added">July 28, 2018</field>
+	<field name="rating">TV-MA</field>
+	<field name="duration">101 min</field>
+	<field name="listed_in">Action & Adventure, Dramas, International Movies</field>
+	<field name="description">In Qing-dynasty China, the emperor commands that a weapon be invented to kill at a distance without a trace. Then he orders it used on its wielders.</field>
+</item><item>
+	<field name="show_id">771476</field>
+	<field name="title">Monty Python and the Holy Grail</field>
+	<field name="director">Terry Gilliam, Terry Jones</field>
+	<field name="cast">Graham Chapman, John Cleese, Eric Idle, Terry Gilliam, Terry Jones, Michael Palin, Connie Booth, Carol Cleveland, Neil Innes</field>
+	<field name="country">United Kingdom</field>
+	<field name="date_added">January 2, 2019</field>
+	<field name="rating">PG</field>
+	<field name="duration">92 min</field>
+	<field name="listed_in">Action & Adventure, Classic Movies, Comedies</field>
+	<field name="description">The Monty Python comedy clan skewers King Arthur and his Knights of the Round Table as they quest far and wide for the Holy Grail.</field>
+</item><item>
+	<field name="show_id">20255593</field>
+	<field name="title">Chupke Chupke</field>
+	<field name="director">Hrishikesh Mukherjee</field>
+	<field name="cast">Dharmendra, Sharmila Tagore, Amitabh Bachchan, Jaya Bhaduri, Om Prakash, Asrani, David Abraham, Usha Kiran, Lily Chakravarty, Keshto Mukherjee</field>
+	<field name="country">India</field>
+	<field name="date_added">December 31, 2019</field>
+	<field name="rating">TV-PG</field>
+	<field name="duration">127 min</field>
+	<field name="listed_in">Classic Movies, Comedies, International Movies</field>
+	<field name="description">Jealous of the high regard in which his new wife holds their brother-in-law, a botany professor stages an elaborate prank that will even the score.</field>
+</item><item>
+	<field name="show_id">80158479</field>
+	<field name="title">Salaakhen</field>
+	<field name="director">A. Salaam</field>
+	<field name="cast">Shashi Kapoor, Sulakshana Pandit, Mehmood, Sudhir, Anjana Mumtaz, Sajjan, M. Rajan, Mac Mohan, Amrish Puri, Ramesh Deo</field>
+	<field name="country">India</field>
+	<field name="date_added">April 1, 2017</field>
+	<field name="rating">TV-14</field>
+	<field name="duration">134 min</field>
+	<field name="listed_in">Action & Adventure, International Movies, Music & Musicals</field>
+	<field name="description">Two close childhood friends take drastically different paths in life, but meet by chance years later and fall in love, unaware of their past bond.</field>
+</item>

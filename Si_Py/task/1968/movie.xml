@@ -1,0 +1,34 @@
+<item>
+	<field name="show_id">60031884</field>
+	<field name="title">Once Upon a Time in the West</field>
+	<field name="director">Sergio Leone</field>
+	<field name="cast">Henry Fonda, Charles Bronson, Claudia Cardinale, Jason Robards, Gabriele Ferzetti, Paolo Stoppa, Woody Strode, Jack Elam, Keenan Wynn, Frank Wolff, Lionel Stander</field>
+	<field name="country">Italy, United States</field>
+	<field name="date_added">November 20, 2019</field>
+	<field name="rating">PG-13</field>
+	<field name="duration">166 min</field>
+	<field name="listed_in">Action & Adventure, Classic Movies, International Movies</field>
+	<field name="description">In this epic spaghetti Western, a flinty gunslinger is hired by a railroad tycoon to kill anyone standing in the way of his trans-American iron horse.</field>
+</item><item>
+	<field name="show_id">60002403</field>
+	<field name="title">Rosemary's Baby</field>
+	<field name="director">Roman Polanski</field>
+	<field name="cast">Mia Farrow, John Cassavetes, Ruth Gordon, Sidney Blackmer, Maurice Evans, Ralph Bellamy, Patsy Kelly, Elisha Cook Jr., Emmaline Henry, Charles Grodin</field>
+	<field name="country">United States</field>
+	<field name="date_added">November 1, 2019</field>
+	<field name="rating">R</field>
+	<field name="duration">137 min</field>
+	<field name="listed_in">Classic Movies, Horror Movies, Thrillers</field>
+	<field name="description">A woman is thrilled to find out she's pregnant. But as her belly grows, the more certain she becomes that her unborn child is in serious danger.</field>
+</item><item>
+	<field name="show_id">374651</field>
+	<field name="title">Chitty Chitty Bang Bang</field>
+	<field name="director">Ken Hughes</field>
+	<field name="cast">Dick Van Dyke, Sally Ann Howes, Lionel Jeffries, Gert Fröbe, Anna Quayle, Benny Hill, James Robertson Justice, Robert Helpmann, Heather Ripley, Adrian Hall, Barbara Windsor, Davy Kaye, Alexander Doré, Bernard Spear, Stanley Unwin</field>
+	<field name="country">United Kingdom, United States</field>
+	<field name="date_added">January 1, 2020</field>
+	<field name="rating">G</field>
+	<field name="duration">146 min</field>
+	<field name="listed_in">Children & Family Movies, Classic Movies, Comedies</field>
+	<field name="description">Quirky inventor Caractacus Potts and his family travel in their magical flying car to Vulgaria, a kingdom strangely devoid of children.</field>
+</item>

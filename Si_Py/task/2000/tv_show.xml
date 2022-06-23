@@ -1,0 +1,34 @@
+<item>
+	<field name="show_id">70297439</field>
+	<field name="title">Pokémon: Indigo League</field>
+	<field name="director">nan</field>
+	<field name="cast">Rica Matsumoto, Ikue Otani, Mayumi Iizuka, Megumi Hayashibara, Unsho Ishizuka</field>
+	<field name="country">Japan</field>
+	<field name="date_added">January 1, 2018</field>
+	<field name="rating">TV-Y</field>
+	<field name="duration">1 Season</field>
+	<field name="listed_in">Anime Series, Kids' TV</field>
+	<field name="description">Explore the world of Pokémon with 10-year-old Ash Ketchum and his partner, Pikachu, as they aim for Ash's ultimate goal: becoming a Pokémon master.</field>
+</item><item>
+	<field name="show_id">70213082</field>
+	<field name="title">Power Rangers Lightspeed Rescue</field>
+	<field name="director">nan</field>
+	<field name="cast">Michael Chaturantabut, Sean CW Johnson, Alison MacInnis, Keith Robinson, Sasha Craig, Monica Louwerens, Rhett Fisher, Ron Roggé, Jennifer L. Yen, Kim Strauss</field>
+	<field name="country">United States, France, Japan</field>
+	<field name="date_added">January 1, 2016</field>
+	<field name="rating">TV-Y7-FV</field>
+	<field name="duration">1 Season</field>
+	<field name="listed_in">Kids' TV</field>
+	<field name="description">As demons rumble from their graves beneath Mariner Bay, a government organization called Lightspeed recruits five civilians to defend the city.</field>
+</item><item>
+	<field name="show_id">70158331</field>
+	<field name="title">Star Trek: Voyager</field>
+	<field name="director">nan</field>
+	<field name="cast">Kate Mulgrew, Robert Beltran, Roxann Dawson, Jennifer Lien, Robert Duncan McNeill, Ethan Phillips, Robert Picardo, Tim Russ, Jeri Ryan, Garrett Wang, Tarik Ergin</field>
+	<field name="country">United States</field>
+	<field name="date_added"> October 1, 2017</field>
+	<field name="rating">TV-PG</field>
+	<field name="duration">7 Seasons</field>
+	<field name="listed_in">TV Action & Adventure, TV Sci-Fi & Fantasy</field>
+	<field name="description">On Voyager's 75-year journey back to Earth, the crew members encounter unknown species as they draw closer to a mysterious quadrant of space.</field>
+</item>

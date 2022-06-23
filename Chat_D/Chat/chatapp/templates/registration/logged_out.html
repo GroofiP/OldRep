@@ -1,0 +1,15 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Чат</title>
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+</head>
+<body>
+<div class="wrapper">
+    <p>Вы вышли!</p>
+    <a href="{% url 'login' %}">Кликните, чтобы зайти снова</a>
+</div>
+</body>
+</html>

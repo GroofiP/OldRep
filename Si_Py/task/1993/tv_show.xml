@@ -1,0 +1,34 @@
+<item>
+	<field name="show_id">81121055</field>
+	<field name="title">Tales of the City (1993)</field>
+	<field name="director">nan</field>
+	<field name="cast">Olympia Dukakis, Donald Moffat, Laura Linney, Marcus D'Amico, Billy Campbell, Thomas Gibson, Paul Gross, Barbara Garrick, Chloe Webb, Nina Foch, Parker Posey, Stanley DeSantis</field>
+	<field name="country">United Kingdom, United States</field>
+	<field name="date_added">June 28, 2019</field>
+	<field name="rating">TV-MA</field>
+	<field name="duration">1 Season</field>
+	<field name="listed_in">TV Dramas</field>
+	<field name="description">In 1976, naive Mary Ann Singleton moves to San Francisco and finds a new family in her bohemian landlady and the eclectic residents at 28 Barbary Lane.</field>
+</item><item>
+	<field name="show_id">70217161</field>
+	<field name="title">The Adventures of Sonic the Hedgehog</field>
+	<field name="director">nan</field>
+	<field name="cast">Jaleel White, Long John Baldry, Garry Chalk</field>
+	<field name="country">United States, Canada</field>
+	<field name="date_added">April 18, 2018</field>
+	<field name="rating">TV-Y</field>
+	<field name="duration">1 Season</field>
+	<field name="listed_in">Kids' TV</field>
+	<field name="description">Hyper hedgehog Sonic and his cohort Miles "Tails" Prower defend the planet Mobius against Dr. Robotnik and his evil schemes in this animated series.</field>
+</item><item>
+	<field name="show_id">70158329</field>
+	<field name="title">Star Trek: The Next Generation</field>
+	<field name="director">nan</field>
+	<field name="cast">Patrick Stewart, Jonathan Frakes, LeVar Burton, Michael Dorn, Marina Sirtis, Brent Spiner, Gates McFadden, Majel Barrett, Wil Wheaton</field>
+	<field name="country">United States</field>
+	<field name="date_added"> April 2, 2018</field>
+	<field name="rating">TV-PG</field>
+	<field name="duration">7 Seasons</field>
+	<field name="listed_in">TV Action & Adventure, TV Sci-Fi & Fantasy</field>
+	<field name="description">Decades after the adventures of the original Enterprise crew, Capt. Jean-Luc Picard leads a new Enterprise on missions to explore unknown worlds.</field>
+</item>

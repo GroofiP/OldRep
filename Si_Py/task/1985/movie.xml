@@ -1,0 +1,78 @@
+<item>
+	<field name="show_id">81168340</field>
+	<field name="title">Medium</field>
+	<field name="director">Jacek Koprowicz</field>
+	<field name="cast">Władysław Kowalski, Michał Bajor, Jerzy Zelnik, Jerzy Stuhr, Grażyna Szapołowska, Jerzy Nowak, Ewa Dałkowska, Piotr Machalica, Zygmunt Zintel, Henryk Bista</field>
+	<field name="country">Poland, West Germany</field>
+	<field name="date_added">October 1, 2019</field>
+	<field name="rating">TV-MA</field>
+	<field name="duration">90 min</field>
+	<field name="listed_in">Horror Movies, International Movies, Thrillers</field>
+	<field name="description">In 1930s Poland, a powerful psychic steers a group of strangers toward a fated convergence that ensures survival for one and annihilation for others.</field>
+</item><item>
+	<field name="show_id">70266171</field>
+	<field name="title">Esperando La Carroza</field>
+	<field name="director">Alejandro Doria</field>
+	<field name="cast">Luis Brandoni, China Zorrilla, Antonio Gasalla, Julio De Grazia, Betiana Blum, Monica Villa, Juan Manuel Tenuta, Andrea Tenuta, Cecilia Rossetto, Enrique Pinti</field>
+	<field name="country">Argentina</field>
+	<field name="date_added">July 15, 2018</field>
+	<field name="rating">NR</field>
+	<field name="duration">95 min</field>
+	<field name="listed_in">Comedies, Cult Movies, International Movies</field>
+	<field name="description">Cora has three sons and a daughter and she´s almost 80. One day during a family reunion the big question comes up: who will be her heir?</field>
+</item><item>
+	<field name="show_id">60003097</field>
+	<field name="title">Ram Teri Ganga Maili</field>
+	<field name="director">Raj Kapoor</field>
+	<field name="cast">Mandakini, Rajiv Kapoor, Divya Rana, Saeed Jaffrey, Kulbhushan Kharbanda, Raza Murad, Sushma Seth, Trilok Kapoor</field>
+	<field name="country">India</field>
+	<field name="date_added">December 31, 2019</field>
+	<field name="rating">TV-14</field>
+	<field name="duration">178 min</field>
+	<field name="listed_in">Classic Movies, Dramas, International Movies</field>
+	<field name="description">Abandoned by her new husband and father of her son, a mountain woman journeys to Calcutta to find him, constantly tested by social evils along the way.</field>
+</item><item>
+	<field name="show_id">60021548</field>
+	<field name="title">Trikal (Past, Present, Future)</field>
+	<field name="director">Shyam Benegal</field>
+	<field name="cast">Leela Naidu, Neena Gupta, Anita Kanwar, Soni Razdan, Dalip Tahil, K.K. Raina, Kunal Kapoor, Keith Stevenson, Naseeruddin Shah, Kulbhushan Kharbanda</field>
+	<field name="country">India</field>
+	<field name="date_added">December 31, 2019</field>
+	<field name="rating">TV-14</field>
+	<field name="duration">134 min</field>
+	<field name="listed_in">Comedies, Dramas, Independent Movies</field>
+	<field name="description">A Goan native returns to his now-derelict, palatial childhood home, recalling his family’s interpersonal drama during the end of Portuguese rule.</field>
+</item><item>
+	<field name="show_id">80039484</field>
+	<field name="title">Disciples Of The 36th Chamber</field>
+	<field name="director">Chia-Liang Liu</field>
+	<field name="cast">Hou Hsiao, Gordon Liu, Lily Li, Jason Pai Piao, Chia-Liang Liu</field>
+	<field name="country">Hong Kong</field>
+	<field name="date_added">August 16, 2018</field>
+	<field name="rating">NR</field>
+	<field name="duration">90 min</field>
+	<field name="listed_in">Action & Adventure, International Movies</field>
+	<field name="description">Shaolin monk San Te returns to protect a fellow hero with a talent for finding trouble in this action-packed sequel to "The 36th Chamber of Shaolin."</field>
+</item><item>
+	<field name="show_id">80997861</field>
+	<field name="title">The Young Vagabond</field>
+	<field name="director">Sze Yu Lau</field>
+	<field name="cast">Chia-Hui Liu, Wong Yu, Jason Pai Piao, Lung Wei Wang, Hoi-Shan Kwan, Feng Ku, San Nam Hung, Kuo Hua Chang, Feng Kuan</field>
+	<field name="country">Hong Kong</field>
+	<field name="date_added">August 16, 2018</field>
+	<field name="rating">TV-14</field>
+	<field name="duration">85 min</field>
+	<field name="listed_in">Action & Adventure, Comedies, International Movies</field>
+	<field name="description">To avenge his master, a wine-loving young man steps up his fighting skills to defeat a powerful thief in a life-or-death match.</field>
+</item><item>
+	<field name="show_id">916061</field>
+	<field name="title">Rocky IV</field>
+	<field name="director">Sylvester Stallone</field>
+	<field name="cast">Sylvester Stallone, Talia Shire, Burt Young, Carl Weathers, Dolph Lundgren, Brigitte Nielsen, Tony Burton, Michael Pataki</field>
+	<field name="country">United States</field>
+	<field name="date_added">August 1, 2019</field>
+	<field name="rating">PG</field>
+	<field name="duration">92 min</field>
+	<field name="listed_in">Dramas, Sports Movies</field>
+	<field name="description">Rocky Balboa takes on the Cold War, coming out of retirement to battle a Soviet fighter who pulverized Rocky's friend and former rival, Apollo Creed.</field>
+</item>

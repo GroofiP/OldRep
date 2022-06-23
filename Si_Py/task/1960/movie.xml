@@ -1,0 +1,45 @@
+<item>
+	<field name="show_id">80158547</field>
+	<field name="title">Singapore</field>
+	<field name="director">Shakti Samanta</field>
+	<field name="cast">Shammi Kapoor, Padmini, Maria Menado, Shashikala, Agha, K.N. Singh, Madan Puri, Helen</field>
+	<field name="country">India, Malaysia</field>
+	<field name="date_added">October 15, 2017</field>
+	<field name="rating">TV-PG</field>
+	<field name="duration">158 min</field>
+	<field name="listed_in">Comedies, Dramas, International Movies</field>
+	<field name="description">When his employee disappears in Singapore, Shyam travels from India to investigate the absence and becomes entangled in a deadly plot.</field>
+</item><item>
+	<field name="show_id">60002033</field>
+	<field name="title">Butterfield 8</field>
+	<field name="director">Daniel Mann</field>
+	<field name="cast">Elizabeth Taylor, Laurence Harvey, Eddie Fisher, Dina Merrill, Mildred Dunnock, Betty Field, Jeffrey Lynn, Susan Oliver</field>
+	<field name="country">United States</field>
+	<field name="date_added">November 1, 2019</field>
+	<field name="rating">TV-14</field>
+	<field name="duration">108 min</field>
+	<field name="listed_in">Classic Movies, Dramas, Romantic Movies</field>
+	<field name="description">Elizabeth Taylor won an Oscar as Gloria Wandrous, a stylish call girl who yearns to go straight, especially after she thinks she's found Mr. Right.</field>
+</item><item>
+	<field name="show_id">60021590</field>
+	<field name="title">Ocean's Eleven</field>
+	<field name="director">Lewis Milestone</field>
+	<field name="cast">Frank Sinatra, Dean Martin, Sammy Davis Jr., Peter Lawford, Angie Dickinson, Richard Conte, Cesar Romero, Patrice Wymore, Joey Bishop</field>
+	<field name="country">United States</field>
+	<field name="date_added">November 1, 2019</field>
+	<field name="rating">TV-PG</field>
+	<field name="duration">127 min</field>
+	<field name="listed_in">Action & Adventure, Classic Movies, Comedies</field>
+	<field name="description">Frank Sinatra leads an all-star cast as Danny Ocean, who decides to knock over a few casinos on the Las Vegas Strip with his buddies.</field>
+</item><item>
+	<field name="show_id">60001407</field>
+	<field name="title">Jis Desh Men Ganga Behti Hai</field>
+	<field name="director">Radhu Karmakar</field>
+	<field name="cast">Raj Kapoor, Padmini, Pran, Chanchal, Lalita Pawar, Raj Mehra, Tiwari, Nana Palsikar, Nayampally, Sulochana Chatterjee</field>
+	<field name="country">nan</field>
+	<field name="date_added">December 31, 2019</field>
+	<field name="rating">TV-14</field>
+	<field name="duration">181 min</field>
+	<field name="listed_in">Action & Adventure, Dramas, International Movies</field>
+	<field name="description">Falling in with a band of outlaws during a holy pilgrimage, a country boy tries to change their violent ways ahead of a showdown with the authorities.</field>
+</item>

@@ -1,0 +1,15 @@
+﻿{% extends "base.html" %}
+{% block body %}
+<h1>Событие</h1>
+<form>
+    <p>Название<input type="text" name="name"></p>
+    <p>Выберите дату: <input type="date" name="calendar">
+        <input type="time" name="time">
+        <input type="submit" value="Добавить дату"></p>
+    {%if developments%}
+    <p>{{developments}}</p>
+    {%else%}
+    {{pass}}
+    {% endif %}
+</form>
+{% endblock %}

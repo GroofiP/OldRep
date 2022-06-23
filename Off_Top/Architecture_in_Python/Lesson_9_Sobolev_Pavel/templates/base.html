@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>
+        {% block title %}
+        {{title}}
+        {% endblock %}
+    </title>
+    {% block style %}
+    {% include "includes/inc_style.html" %}
+    {% endblock %}
+</head>
+<body>
+{% block menu %}
+{% include "includes/inc_menu.html" %}
+{% endblock %}
+{% block body %}
+
+{% endblock %}
+</body>
+</html>

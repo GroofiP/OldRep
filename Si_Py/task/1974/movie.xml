@@ -1,0 +1,78 @@
+<item>
+	<field name="show_id">80158545</field>
+	<field name="title">Manoranjan</field>
+	<field name="director">Shammi Kapoor</field>
+	<field name="cast">Sanjeev Kumar, Zeenat Aman, Shammi Kapoor, Dev Kumar, Madan Puri, Paintal, Asit Kumar Sen, Agha, Murad, Shefali</field>
+	<field name="country">India</field>
+	<field name="date_added">September 1, 2017</field>
+	<field name="rating">TV-14</field>
+	<field name="duration">162 min</field>
+	<field name="listed_in">Comedies, International Movies, Music & Musicals</field>
+	<field name="description">After getting fired, a police officer connects with a prostitute he met on the job in a red-light district and sets out to keep her off the streets.</field>
+</item><item>
+	<field name="show_id">15815343</field>
+	<field name="title">The Texas Chainsaw Massacre</field>
+	<field name="director">Tobe Hooper</field>
+	<field name="cast">Gunnar Hansen, Jim Siedow, Marilyn Burns, Edwin Neal, Paul A. Partain, Teri McMinn, William Vail, John Dugan, John Henry Faulk, Allen Danziger</field>
+	<field name="country">United States</field>
+	<field name="date_added">October 22, 2019</field>
+	<field name="rating">R</field>
+	<field name="duration">83 min</field>
+	<field name="listed_in">Cult Movies, Horror Movies, Independent Movies</field>
+	<field name="description">When some friends visit a vandalized graveyard, they come upon a chainsaw-wielding maniac, and it's a fight to the bloody death between good and evil.</field>
+</item><item>
+	<field name="show_id">60004083</field>
+	<field name="title">The Longest Yard</field>
+	<field name="director">Robert Aldrich</field>
+	<field name="cast">Burt Reynolds, Eddie Albert, Ed Lauter, James Hampton, Charles Tyner, Bernadette Peters, Richard Kiel, Joe Dorsey, Joe Jackson, Harry Caesar, John Steadman, Jim Nicholson, Tony Cacciotti</field>
+	<field name="country">United States</field>
+	<field name="date_added">November 20, 2019</field>
+	<field name="rating">R</field>
+	<field name="duration">121 min</field>
+	<field name="listed_in">Classic Movies, Comedies, Sports Movies</field>
+	<field name="description">Washed-up professional quarterback Paul Crewe is sent to jail and forced to put together an inmate gridiron team to take on a group of prison guards.</field>
+</item><item>
+	<field name="show_id">296682</field>
+	<field name="title">Benji</field>
+	<field name="director">Joe Camp</field>
+	<field name="cast">Benji, Deborah Walley, Peter Breck, Edgar Buchanan, Terry Carter, Christopher Connelly</field>
+	<field name="country">United States</field>
+	<field name="date_added">March 6, 2018</field>
+	<field name="rating">G</field>
+	<field name="duration">86 min</field>
+	<field name="listed_in">Children & Family Movies, Classic Movies</field>
+	<field name="description">After lovable abandoned mutt Benji is adopted by a kind family, he chases cats, flirts with a show dog and bravely helps to rescue two abducted kids.</field>
+</item><item>
+	<field name="show_id">80039136</field>
+	<field name="title">Immoral Tales</field>
+	<field name="director">Walerian Borowczyk</field>
+	<field name="cast">Lise Danvers, Fabrice Luchini, Charlotte Alexandra, Paloma Picasso, Pascale Christophe, Florence Bellamy, Jacopo Berinizi, Lorenzo Berinizi</field>
+	<field name="country">France</field>
+	<field name="date_added">June 6, 2019</field>
+	<field name="rating">UR</field>
+	<field name="duration">103 min</field>
+	<field name="listed_in">Dramas, International Movies, Romantic Movies</field>
+	<field name="description">This anthology illustrates the timeless nature of desire in four stories of incest, bloodlust and other forbidden subjects.</field>
+</item><item>
+	<field name="show_id">60010069</field>
+	<field name="title">Alice Doesn't Live Here Anymore</field>
+	<field name="director">Martin Scorsese</field>
+	<field name="cast">Ellen Burstyn, Kris Kristofferson, Billy Green Bush, Diane Ladd, Harvey Keitel, Lelia Goldoni, Lane Bradbury, Vic Tayback, Jodie Foster, Alfred Lutter</field>
+	<field name="country">United States</field>
+	<field name="date_added">July 1, 2019</field>
+	<field name="rating">PG</field>
+	<field name="duration">112 min</field>
+	<field name="listed_in">Classic Movies, Comedies, Dramas</field>
+	<field name="description">A widowed singer and single mother starts over as a diner waitress in Arizona, befriending her coworkers and romancing a ruggedly handsome rancher.</field>
+</item><item>
+	<field name="show_id">81213896</field>
+	<field name="title">Rajnigandha</field>
+	<field name="director">Basu Chatterjee</field>
+	<field name="cast">Vidya Sinha, Amol Palekar, Dinesh Thakur, Ranjita Thakur, Veena Gaud, Manju Maini</field>
+	<field name="country">India</field>
+	<field name="date_added">December 31, 2019</field>
+	<field name="rating">TV-PG</field>
+	<field name="duration">104 min</field>
+	<field name="listed_in">Comedies, Dramas, Independent Movies</field>
+	<field name="description">A grad student leaves her boyfriend in Delhi for a job interview in Mumbai, where she reconnects with an old flame for whom she still has feelings.</field>
+</item>

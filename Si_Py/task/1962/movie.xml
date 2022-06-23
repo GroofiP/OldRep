@@ -1,0 +1,34 @@
+<item>
+	<field name="show_id">709380</field>
+	<field name="title">Lolita</field>
+	<field name="director">Stanley Kubrick</field>
+	<field name="cast">James Mason, Shelley Winters, Peter Sellers, Sue Lyon, Gary Cockrell, Jerry Stovin, Diana Decker, Lois Maxwell, Cec Linder</field>
+	<field name="country">United Kingdom, United States</field>
+	<field name="date_added">November 1, 2019</field>
+	<field name="rating">R</field>
+	<field name="duration">153 min</field>
+	<field name="listed_in">Classic Movies, Dramas, Romantic Movies</field>
+	<field name="description">In this black comedy, an English professor marries his landlady to get closer to his forbidden obsession: her teenage daughter.</field>
+</item><item>
+	<field name="show_id">60011729</field>
+	<field name="title">Mutiny on the Bounty</field>
+	<field name="director">Lewis Milestone, Carol Reed</field>
+	<field name="cast">Marlon Brando, Trevor Howard, Richard Harris, Hugh Griffith, Richard Haydn, Tarita</field>
+	<field name="country">United States</field>
+	<field name="date_added">November 1, 2019</field>
+	<field name="rating">TV-PG</field>
+	<field name="duration">185 min</field>
+	<field name="listed_in">Action & Adventure, Classic Movies, Dramas</field>
+	<field name="description">Marlon Brando gives a nuanced performance as the aristocratic Lt. Fletcher Christian, an officer aboard the HMS Bounty who leads a mutiny against the ship's tyrannical Capt. Bligh.</field>
+</item><item>
+	<field name="show_id">20257393</field>
+	<field name="title">Professor</field>
+	<field name="director">Lekh Tandon</field>
+	<field name="cast">Shammi Kapoor, Kalpana, Lalita Pawar, Parveen Choudhary, Salim, Pratima Devi, Rashid Khan, Bir Sakuja, Bela Bose, Ratnamala</field>
+	<field name="country">India</field>
+	<field name="date_added">July 1, 2017</field>
+	<field name="rating">TV-PG</field>
+	<field name="duration">163 min</field>
+	<field name="listed_in">Comedies, Dramas, International Movies</field>
+	<field name="description">A college grad in need of money must disguise himself as an old man to tutor two young women who are under the watchful eye of their strict aunt.</field>
+</item>

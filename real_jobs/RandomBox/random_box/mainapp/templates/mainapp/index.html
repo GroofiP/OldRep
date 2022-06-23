@@ -1,0 +1,28 @@
+{% extends "mainapp/base.html" %}
+{% load static %}
+{% block content %}
+    <div class="head">
+        <div class="head_top">
+            <h1 class="head_top_h1">Получи приз</h1>
+            <p class="head_top_p">Большое количетсво гаджетов, особенно от компании Apple</p>
+            <a class="head_top_button" href="{% url 'mainapp:main' %}">Выбрать коробочку</a>
+        </div>
+        <div class="head_footer">
+            <h1 class="head_footer_h1">О коробках</h1>
+            <ul class="head_footer_ul">
+                <li class="head_footer_li"><img class="head_footer_icon" src="{% static 'img/head_icon_1.png' %}"
+                                                alt="icon_1">
+                    <p class="head_footer_p"> 100 процентный приз</p></li>
+                <li class="head_footer_li"><img class="head_footer_icon head_footer_icon_2"
+                                                src="{% static 'img/head_icon_2.png' %}" alt="icon_2">
+                    <p class="head_footer_p"> Большая вероятность ценного куша</p></li>
+                <li class="head_footer_li"><img class="head_footer_icon" src="{% static 'img/head_icon_3.png' %}"
+                                                alt="icon_3">
+                    <p class="head_footer_p"> При каждой покупке бокса коэффициент растет</p></li>
+                <li class="head_footer_li"><img class="head_footer_icon head_footer_icon_4"
+                                                src="{% static 'img/head_icon_4.png' %}" alt="icon_4">
+                    <p class="head_footer_p"> “Кто не рискует, тот не пьет шампанское”</p></li>
+            </ul>
+        </div>
+    </div>
+{% endblock %}

@@ -1,0 +1,18 @@
+[
+  {
+    "city": "Санкт-Петербург",
+    "phone": "+7 (812) 466-00-00",
+    "email": "linafilatowa96@yandex.ru",
+    "manager": "Филатова Алина игоревна",
+    "support": "Соболев Павел Дмитриевич",
+    "email_support": "varchikcreed@mail.ru"
+  },
+  {
+    "city": "Москва",
+    "phone": "+7 (495) 466-00-00",
+    "email": "linafilatowa96@yandex.ru",
+    "manager": "Филатова Алина игоревна",
+    "support": "Соболев Павел Дмитриевич",
+    "email_support": "varchikcreed@mail.ru"
+  }
+]

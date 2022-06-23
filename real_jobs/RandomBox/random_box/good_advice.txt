@@ -1,0 +1,5 @@
+Вы можете использовать эту команду для сброса данных в файл json:
+python manage.py dumpdata material --indent=1 > my_dir/material.json
+
+А потом эта команда загрузит его в базу данных:
+python manage.py loaddata my_dir/material.json

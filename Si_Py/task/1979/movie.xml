@@ -1,0 +1,67 @@
+<item>
+	<field name="show_id">699257</field>
+	<field name="title">Monty Python's Life of Brian</field>
+	<field name="director">Terry Jones</field>
+	<field name="cast">Graham Chapman, John Cleese, Terry Gilliam, Eric Idle, Terry Jones, Michael Palin, Terence Bayler, Carol Cleveland</field>
+	<field name="country">United Kingdom</field>
+	<field name="date_added">October 2, 2018</field>
+	<field name="rating">R</field>
+	<field name="duration">94 min</field>
+	<field name="listed_in">Classic Movies, Comedies, Cult Movies</field>
+	<field name="description">Born in a stable in Judea, Brian grows up to join a group of anti-Roman zealots, but his fate keeps getting confused with that of a certain carpenter.</field>
+</item><item>
+	<field name="show_id">70050576</field>
+	<field name="title">Lupin the 3rd: The Castle of Cagliostro: Special Edition</field>
+	<field name="director">Hayao Miyazaki</field>
+	<field name="cast">Yasuo Yamada, Kiyoshi Kobayashi, Eiko Masuyama, Makio Inoue, Goro Naya, Sumi Shimamoto, Taro Ishida, Kohei Miyauchi, Ichiro Nagai</field>
+	<field name="country">Japan</field>
+	<field name="date_added">May 15, 2018</field>
+	<field name="rating">PG-13</field>
+	<field name="duration">100 min</field>
+	<field name="listed_in">Action & Adventure, Anime Features, Classic Movies</field>
+	<field name="description">Lupin, his sidekick, Jigen, and the samurai warrior Goemon set out to take over an evil counterfeit operation at Count Cagliostro's fortress.</field>
+</item><item>
+	<field name="show_id">21028086</field>
+	<field name="title">Gol Maal</field>
+	<field name="director">Hrishikesh Mukherjee</field>
+	<field name="cast">Amol Palekar, Bindiya Goswami, Deven Verma, Utpal Dutt, Shubha Khote, Manju Singh, Dina Pathak, Pushpa, David Abraham, Asrani</field>
+	<field name="country">India</field>
+	<field name="date_added">December 31, 2019</field>
+	<field name="rating">TV-PG</field>
+	<field name="duration">137 min</field>
+	<field name="listed_in">Classic Movies, Comedies, International Movies</field>
+	<field name="description">When circumstances at work compel Ram to pretend to have a twin, his lie works – until the boss wants his daughter to marry Ram’s fictitious brother.</field>
+</item><item>
+	<field name="show_id">81213898</field>
+	<field name="title">The Great Gambler</field>
+	<field name="director">Shakti Samanta</field>
+	<field name="cast">Amitabh Bachchan, Zeenat Aman, Neetu Singh, Prem Chopra, Utpal Dutt, Madan Puri, Om Shivpuri, Iftekhar, Sujit Kumar, Roopesh Kumar</field>
+	<field name="country">India</field>
+	<field name="date_added">December 31, 2019</field>
+	<field name="rating">TV-14</field>
+	<field name="duration">161 min</field>
+	<field name="listed_in">Action & Adventure, Classic Movies, Cult Movies</field>
+	<field name="description">After unwittingly using his skills to obtain military secrets, a gambler is pursued by a police officer who happens to be his doppelgänger.</field>
+</item><item>
+	<field name="show_id">907090</field>
+	<field name="title">Richard Pryor: Live in Concert</field>
+	<field name="director">Jeff Margolis</field>
+	<field name="cast">Richard Pryor</field>
+	<field name="country">United States</field>
+	<field name="date_added">December 1, 2016</field>
+	<field name="rating">TV-MA</field>
+	<field name="duration">79 min</field>
+	<field name="listed_in">Stand-Up Comedy</field>
+	<field name="description">Richard Pryor's classic 1979 concert film has him discussing a wide range of topics, including race, the police and his favorite target – himself.</field>
+</item><item>
+	<field name="show_id">916043</field>
+	<field name="title">Rocky II</field>
+	<field name="director">Sylvester Stallone</field>
+	<field name="cast">Sylvester Stallone, Talia Shire, Burt Young, Carl Weathers, Burgess Meredith, Tony Burton, Joe Spinell, Leonard Gaines, John Pleshette, Sylvia Meals</field>
+	<field name="country">United States</field>
+	<field name="date_added">August 1, 2019</field>
+	<field name="rating">PG</field>
+	<field name="duration">119 min</field>
+	<field name="listed_in">Dramas, Sports Movies</field>
+	<field name="description">Featuring a rousing climax, this engaging sequel finds boxer Rocky Balboa returning to the ring for a rematch against reigning champ Apollo Creed.</field>
+</item>

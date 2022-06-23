@@ -1,0 +1,22 @@
+{% extends "mainapp/base.html" %}
+{% load static%}
+{% block content %}
+<div class="products_head">
+    <h1 class="products_head_h1 ">Выберите товар</h1>
+    {% include 'mainapp/includes/inc_menu_products.html' %}
+    <div class="row row-cols-1 row-cols-md-3 g-4">
+        {% for product in products %}
+        <div class="col">
+            <div class="card text-center " style="width: 18rem;">
+                <img src="/media/{{product.image}}" class="card-img-top " alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">{{product.name}}</h5>
+                    <p class="card-text">{{product.description}}.</p>
+                    <a href="{% url 'basket:add' product.pk %}" class="btn btn-primary">{{product.price}}</a>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+{% endblock %}

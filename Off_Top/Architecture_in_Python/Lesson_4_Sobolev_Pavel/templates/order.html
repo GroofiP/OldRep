@@ -1,0 +1,30 @@
+﻿{% extends "base.html" %}
+{% block body %}
+<h1>Обучаем ремонту часов</h1>
+<div>
+    <a href="/create-category/">Создать новую категорию</a>
+</div>
+<div>
+    <h1>Список категорий</h1>
+    <ul>
+        {% for item in objects_list %}
+        <li>
+            {{item.name}} <br><span>Количество курсов: {{item.course_count()}}</span>
+            <br><a href="/courses-list/?id={{item.id}}">Показать курсы</a>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+<form action="" method="post">
+    <fieldset>
+        <legend>Зарегистрируйтесь</legend>
+        <p><label class="title" for="name">Ваше имя:</label>
+            <input type="text" name="name" id="name"><br/>
+            <label class="title" for="email">Ваш email:</label>
+            <input type="text" name="email" id="email">
+            <label class="title" for="password">Ваш password:</label>
+            <input type="text" name="password" id="password"></p>
+    </fieldset>
+    <div class="submit"><input type="submit" value="Регистрация"/></div>
+</form>
+{% endblock %}

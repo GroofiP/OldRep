@@ -1,0 +1,78 @@
+<item>
+	<field name="show_id">70020699</field>
+	<field name="title">Raging Bull</field>
+	<field name="director">Martin Scorsese</field>
+	<field name="cast">Robert De Niro, Cathy Moriarty, Joe Pesci, Frank Vincent, Nicholas Colasanto, Theresa Saldana, Mario Gallo, Frank Adonis, Joseph Bono</field>
+	<field name="country">United States</field>
+	<field name="date_added">October 1, 2019</field>
+	<field name="rating">R</field>
+	<field name="duration">129 min</field>
+	<field name="listed_in">Classic Movies, Dramas, Sports Movies</field>
+	<field name="description">This gritty biopic of brutal boxer Jake LaMotta portrays a tormented soul rising to the top of his sport, only to be undone by his demons.</field>
+</item><item>
+	<field name="show_id">60028294</field>
+	<field name="title">Popeye</field>
+	<field name="director">Robert Altman</field>
+	<field name="cast">Robin Williams, Shelley Duvall, Ray Walston, Paul Dooley, Paul L. Smith, Richard Libertini, Donald Moffat, Macintyre Dixon, Roberta Maxwell, Donovan Scott</field>
+	<field name="country">United States</field>
+	<field name="date_added">November 24, 2019</field>
+	<field name="rating">PG</field>
+	<field name="duration">114 min</field>
+	<field name="listed_in">Action & Adventure, Children & Family Movies, Comedies</field>
+	<field name="description">During a storm that wrecks his ship, super-strong sailor Popeye washes ashore and winds up rooming at the Oyl household, where he meets Olive.</field>
+</item><item>
+	<field name="show_id">80158543</field>
+	<field name="title">Alibaba Aur 40 Chor</field>
+	<field name="director">Latif Faiziyev, Umesh Mehra</field>
+	<field name="cast">Dharmendra, Hema Malini, Zeenat Aman, Rolan Bykov, Prem Chopra, Yakub Akhmedov, Madan Puri, Sofiko Chiaureli</field>
+	<field name="country">Soviet Union, India</field>
+	<field name="date_added">January 15, 2018</field>
+	<field name="rating">TV-PG</field>
+	<field name="duration">147 min</field>
+	<field name="listed_in">Action & Adventure, International Movies, Sci-Fi & Fantasy</field>
+	<field name="description">A simple village man is thrown into a web of political intrigue after he takes on a powerful and ruthless gang of bandits.</field>
+</item><item>
+	<field name="show_id">81213895</field>
+	<field name="title">Khubsoorat</field>
+	<field name="director">Hrishikesh Mukherjee</field>
+	<field name="cast">Ashok Kumar, Rekha, Rakesh Roshan, Shashikala, Aradhana, Dina Pathak, David Abraham, S.N. Banerjee, Keshto Mukherjee</field>
+	<field name="country">India</field>
+	<field name="date_added">December 31, 2019</field>
+	<field name="rating">TV-PG</field>
+	<field name="duration">120 min</field>
+	<field name="listed_in">Classic Movies, Comedies, Dramas</field>
+	<field name="description">A strict matriarch's regimented household is upended by the arrival of a spunky relative who challenges the rules.</field>
+</item><item>
+	<field name="show_id">70135647</field>
+	<field name="title">Playing for Time</field>
+	<field name="director">Daniel Mann, Joseph Sargent</field>
+	<field name="cast">Vanessa Redgrave, Jane Alexander, Maud Adams, Donna Haley, Robin Bartlett, Marisa Berenson, Will Lee, Verna Bloom, Christine Baranski, Lenore Harris</field>
+	<field name="country">United States</field>
+	<field name="date_added">December 1, 2017</field>
+	<field name="rating">TV-14</field>
+	<field name="duration">149 min</field>
+	<field name="listed_in">Dramas</field>
+	<field name="description">Captured by Nazis and sent to Auschwitz, a Jewish musician is assigned to soothe other prisoners marching to their deaths in the gas chambers.</field>
+</item><item>
+	<field name="show_id">70130432</field>
+	<field name="title">Return To The 36th Chamber</field>
+	<field name="director">Chia-Liang Liu</field>
+	<field name="cast">Gordon Liu, Lung Wei Wang, Hou Hsiao, Lun Hua, Yeong-mun Kwon, Kara Hui, Szu-Chia Chen, Tsui Ling Yu, Wei Hao Teng, Gong Shih</field>
+	<field name="country">Hong Kong</field>
+	<field name="date_added">August 16, 2018</field>
+	<field name="rating">R</field>
+	<field name="duration">97 min</field>
+	<field name="listed_in">Action & Adventure, Comedies, International Movies</field>
+	<field name="description">When thugs prey upon innocent factory workers, a small-time scammer trains for revenge by studying the moves of Shaolin temple monks.</field>
+</item><item>
+	<field name="show_id">70100527</field>
+	<field name="title">Sword Masters: Two Champions of Shaolin</field>
+	<field name="director">Cheh Chang</field>
+	<field name="cast">Meng Lo, Sheng Chiang, Li Wang, Siu-Ho Chin, Feng Lu, Chien Sun, Hsueh-erh Wen, Tai-Ping Yu</field>
+	<field name="country">Hong Kong</field>
+	<field name="date_added">August 16, 2018</field>
+	<field name="rating">R</field>
+	<field name="duration">101 min</field>
+	<field name="listed_in">Action & Adventure, International Movies</field>
+	<field name="description">Shaolin warrior Tung Chien-chen is injured in battle against the hated Wu Tang clan, and nursed back to health by a knife-throwing master. As he recovers, Tung learns this deadly art, and also falls in love with his teacher's daughter.</field>
+</item>

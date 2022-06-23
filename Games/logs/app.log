@@ -1,0 +1,8 @@
+ 2021-07-20 01:23:11,872 INFO service invalid literal for int() with base 10: '`123'
+ 2021-07-20 01:26:44,613 INFO log_games Игровой модуль логов
+ 2021-07-20 01:36:19,577 INFO service invalid literal for int() with base 10: 'приве'
+ 2021-07-20 13:47:25,799 INFO service invalid literal for int() with base 10: ''
+ 2021-07-20 13:47:54,522 INFO service invalid literal for int() with base 10: ''
+ 2021-07-20 13:47:59,104 INFO service invalid literal for int() with base 10: ''
+ 2021-07-20 13:47:59,799 INFO service invalid literal for int() with base 10: ''
+ 2021-07-20 13:48:00,535 INFO service invalid literal for int() with base 10: ''

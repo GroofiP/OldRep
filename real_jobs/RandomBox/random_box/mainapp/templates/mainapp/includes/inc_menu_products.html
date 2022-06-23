@@ -1,0 +1,8 @@
+<div class="btn-toolbar justify-content-center" role="toolbar" aria-label="Toolbar with button groups">
+    <div class="btn-group" role="group" aria-label="Basic outlined example">
+        <a href="{% url 'mainapp:main' %}" class="btn btn-outline-primary">Все</a>
+        {% for link in links %}
+        <a href="{% url 'mainapp:category' link.pk %}" class="btn btn-outline-primary">{{link.name}}</a>
+        {% endfor %}
+    </div>
+</div>

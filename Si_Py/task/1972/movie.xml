@@ -1,0 +1,34 @@
+<item>
+	<field name="show_id">60033247</field>
+	<field name="title">Superfly</field>
+	<field name="director">Gordon Parks</field>
+	<field name="cast">Ron O'Neal, Carl Lee, Sheila Frazier, Julius Harris, Charles McGregor, Nate Adams, Polly Niles, Yvonne Delaine</field>
+	<field name="country">United States</field>
+	<field name="date_added">November 1, 2019</field>
+	<field name="rating">R</field>
+	<field name="duration">91 min</field>
+	<field name="listed_in">Action & Adventure, Classic Movies, Dramas</field>
+	<field name="description">To get away from the thug life, cocaine dealer Youngblood Priest puts together one last deal that will net him enough money to start over.</field>
+</item><item>
+	<field name="show_id">60003405</field>
+	<field name="title">Bawarchi</field>
+	<field name="director">Hrishikesh Mukherjee</field>
+	<field name="cast">Rajesh Khanna, A.K. Hangal, Durga Khote, Jaya Bhaduri, Kali Bannerjee, Usha Kiran, Asrani, Paintal</field>
+	<field name="country">India</field>
+	<field name="date_added">December 31, 2019</field>
+	<field name="rating">TV-PG</field>
+	<field name="duration">125 min</field>
+	<field name="listed_in">Classic Movies, Comedies, Dramas</field>
+	<field name="description">A dysfunctional middle-class family is transformed by the attentions of their talented new chef – until he vanishes along with their valuable jewels.</field>
+</item><item>
+	<field name="show_id">24073896</field>
+	<field name="title">Koshish</field>
+	<field name="director">Gulzar</field>
+	<field name="cast">Sanjeev Kumar, Jaya Bhaduri, Asrani, Seema, Om Shivpuri, Dina Pathak</field>
+	<field name="country">India</field>
+	<field name="date_added">December 31, 2019</field>
+	<field name="rating">TV-14</field>
+	<field name="duration">115 min</field>
+	<field name="listed_in">International Movies, Romantic Movies</field>
+	<field name="description">A speech and hearing-impaired couple persists through unforgiving obstacles to be accepted by society and live a life of dignity.</field>
+</item>
